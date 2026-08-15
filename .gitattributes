@@ -1,0 +1,4 @@
+src/external/latent_mosaicer.mxo/** filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+src/models/music2latent2.ts filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
